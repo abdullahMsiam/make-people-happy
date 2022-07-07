@@ -7,11 +7,12 @@ body {
 .banner {
     padding: 60px;
     text-align: center;
-    color: white;
+    color: #ffffff;
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
+
 
 .button {
     text-decoration: none;
@@ -29,6 +30,10 @@ h1 {
 
 h2 {
     font-size: 35px;
+}
+
+p {
+    opacity: 80%;
 }
 
 .any-title {
@@ -160,6 +165,14 @@ footer {
 
 }
 
+#top {
+    color: #e1ff02
+}
+
+#para {
+    padding-bottom: 2%;
+}
+
 .image-ban {
     width: 75%;
     margin-right: 0%;
@@ -169,7 +182,16 @@ footer {
 }
 
 .update {
-    width: 50%;
+    background-color: rgb(16, 123, 120);
+    padding-top: 4%;
+    padding-bottom: 4%;
+    margin-left: 220px;
+    margin-right: 220px;
+    padding-left: 25%;
+    padding-right: 30%;
     text-align: center;
     display: flex;
+    border-radius: 5%;
+    border-left: 3px solid #d52a2a;
+    border-right: 3px solid #d52a2a;
 }

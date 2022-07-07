@@ -19,8 +19,30 @@ body {
     font-weight: 700;
     padding: 10px 15px;
     border-radius: 10%;
+    margin: 10%;
 }
 
 h1 {
     font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.Donate-part {
+    text-align: center;
+    padding: 30px;
+    margin-top: 10px;
+}
+
+.donate-amount {
+    margin-top: 5%;
+    display: flex;
+}
+
+.box {
+    background-color: rgb(165, 219, 219);
+    padding: 10%;
+    margin: 10%;
 }
